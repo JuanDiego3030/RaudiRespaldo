@@ -1,0 +1,10 @@
+_pycache_
+.env
+staticfiles
+RauDie
+venv
+Procfile
+manage.py
+requirements.txt
+runtime.txt
+db.sqlite3
